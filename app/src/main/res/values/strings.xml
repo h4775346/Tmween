@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tmween</string>
+    <string name="successful_process">تمت العملية بنجاح</string>
+    <string name="product_title_in_receipt">السلعة</string>
+    <string name="product_count_in_receipt">الكمية</string>
+    <string name="product_price_in_receipt">السعر</string>
+    <string name="product_total_price_in_receipt">َإجمالي</string>
 </resources>

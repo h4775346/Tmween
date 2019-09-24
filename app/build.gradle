@@ -27,6 +27,14 @@ dependencies {
     //for distance
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
 
+    //for circle image
+    implementation 'de.hdodenhof:circleimageview:3.0.1'
+
+    //library of recycler
+    implementation "com.android.support:support-compat:29.0.0"
+    implementation 'com.android.support:design:29.0.0'
+    implementation "com.android.support:recyclerview-v7:29.0.0"
+
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'

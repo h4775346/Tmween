@@ -1,8 +1,10 @@
-package com.example.tmween;
+package com.example.tmween.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.tmween.R;
 
 public class MainActivity extends AppCompatActivity {
 
